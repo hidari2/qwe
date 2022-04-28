@@ -4,6 +4,7 @@
 
 #include "BossMonster.h"
 
+int a;
 
 SCENE CMainGame::m_eCurScene = START;
 
