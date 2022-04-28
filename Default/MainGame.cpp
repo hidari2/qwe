@@ -3,7 +3,7 @@
 #include "AbstractFactory.h"
 
 #include "BossMonster.h"
-
+int b;
 
 SCENE CMainGame::m_eCurScene = START;
 
